@@ -1,0 +1,2542 @@
+
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Landscape Price Calculator | Cedar Springs</title>
+        <meta name="description" content="Use our landscape project building tool to select the items you’re thinking of and get an idea of the cost range you can expect." />
+        <meta name="google-site-verification" content="W6QzSqlv2Ipp3_9GCStn262cEZMzizGpkoemwPOsq1Y" />
+
+        <!-- Twitter Card data -->
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@CedarSpringsCSL">
+        <meta name="twitter:creator" content="@CedarSpringsCSL">
+        <meta name="twitter:title" content="Landscape Price Calculator | Cedar Springs">
+        <meta name="twitter:text:description" content="Use our landscape project building tool to select the items you’re thinking of and get an idea of the cost range you can expect.">
+
+        <!-- Open Graph/Facebook data -->
+        <meta property="og:title" content="Landscape Price Calculator | Cedar Springs" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://cedarsprings.ca/pricing" />
+                <meta property="og:description" content="Use our landscape project building tool to select the items you’re thinking of and get an idea of the cost range you can expect." />
+        <meta property="og:site_name" content="Cedar Springs" />
+        <meta property="fb:admins" content="170383939680448" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="/srv/users/serverpilot/apps/wordpresstesting/public/wp-content/themes/landscaping/assets/css/main-v=1484921496.css" />
+        <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6136852/7501752/css/fonts.css" />
+        <link rel="stylesheet" type="text/css" href="/srv/users/serverpilot/apps/wordpresstesting/public/wp-content/themes/landscaping/assets/css/print-v=1474309545.css" media="print">
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="https://raw.githubusercontent.com/Kraahkan/productScripts/master/main.js"></script>
+                <script src="https://raw.githubusercontent.com/Kraahkan/productScripts/master/modernizr.js"></script>
+        <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            document.write(unescape("%3Cscript src='/themes/main/js/jquery.js?v=1484921495' type='text/javascript'%3E%3C/script%3E"));
+        }
+        </script>
+                <script src="https://raw.githubusercontent.com/Kraahkan/productScripts/master/head.js"></script>
+        <link rel="apple-touch-icon" sizes="180x180" href="../themes/main/img/device-icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="../themes/main/img/device-icons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="../themes/main/img/device-icons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="../themes/main/img/device-icons/manifest.json">
+<meta name="theme-color" content="#ffffff">
+
+
+    </head>
+
+
+
+<section class="product_grid product_grid--estimate">
+
+    <a href="#" class="product_grid__remove_all">Remove All Pieces</a>
+
+    <div class="product_grid__wrapper">
+
+        <div class="product_grid__button product_grid__button--add_piece">
+            <a href="#">+ Add a Piece</a>
+        </div>
+
+        <div class="product_piece product_piece--empty" data-product_min_price="0" data-product_max_price="0">
+            <div class="product_piece__content">
+                &nbsp;
+            </div>
+        </div>
+
+        <div class="product_piece product_piece--empty" data-product_min_price="0" data-product_max_price="0">
+            <div class="product_piece__content">
+                &nbsp;
+            </div>
+        </div>
+
+        <div class="product_piece product_piece--empty" data-product_min_price="0" data-product_max_price="0">
+            <div class="product_piece__content">
+                &nbsp;
+            </div>
+        </div>
+
+        <div class="product_piece product_piece--empty" data-product_min_price="0" data-product_max_price="0">
+            <div class="product_piece__content">
+                &nbsp;
+            </div>
+        </div>
+
+        <div class="product_piece product_piece--empty" data-product_min_price="0" data-product_max_price="0">
+            <div class="product_piece__content">
+                &nbsp;
+            </div>
+        </div>
+
+        <div class="product_piece product_piece--empty" data-product_min_price="0" data-product_max_price="0">
+            <div class="product_piece__content">
+                &nbsp;
+            </div>
+        </div>
+
+        <div class="product_piece product_piece--empty" data-product_min_price="0" data-product_max_price="0">
+            <div class="product_piece__content">
+                &nbsp;
+            </div>
+        </div>
+
+        <div class="product_piece product_piece--empty" data-product_min_price="0" data-product_max_price="0">
+            <div class="product_piece__content">
+                &nbsp;
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+<section class="piece_grid">
+
+    <div class="piece_grid__wrapper">
+
+        <div class="center">
+
+            <div class="piece_grid__heading">
+
+                <div class="piece_grid__button piece_grid__button--close"><a href="#">close</a></div>
+
+                <h3 class="piece_grid__heading_copy">
+                    Select a piece
+                </h3>
+
+                <div class="piece_grid__buttons">
+                    <div class="piece_grid__button piece_grid__button--backyard piece_grid__button--active"><a href="#">backyard</a></div>
+                    <div class="piece_grid__button piece_grid__button--front_yard piece_grid__button"><a href="#">front yard</a></div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <section class="product_grid product_grid--backyard">
+
+            <div class="product_grid__wrapper">
+
+                                <div class="product_piece" data-product_id="5ba3d9a0-2755-4029-8480-e392558ab2ac" data-product_category="backyard" data-product_name="Side Walkway" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/5ee0e95a-dc73-4a04-b2af-22927807c94a/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Side Walkway
+                                </div>
+                                <p>Simple flagstone stepping stones</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/717f0b09-31a1-475b-9100-52a331284194/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Side Walkway
+                                </div>
+                                <p>Paving stone walkway without steps</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/aac10dbf-5fda-43b7-88b5-d6141e183195/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Side Walkway
+                                </div>
+                                <p>A more complex side yard the requires steps and retaining</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="5ba3d9a0-2755-4029-8480-e392558ab2ac" data-product_variant="small" data-product_min_price="2.5" data-product_max_price="4" href="#">
+                            $2.5-4K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="5ba3d9a0-2755-4029-8480-e392558ab2ac" data-product_variant="medium" data-product_min_price="4" data-product_max_price="6" href="#">
+                            $4-6K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="5ba3d9a0-2755-4029-8480-e392558ab2ac" data-product_variant="large" data-product_min_price="12" data-product_max_price="15" href="#">
+                            $12-15K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="0bb81103-8953-40fa-83ac-e73a4b549fa4" data-product_category="backyard" data-product_name="Rear Stone Landing" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/d62cb007-d7b0-451a-8485-471da2937527/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Rear Stone Landing
+                                </div>
+                                <p>Small stone or precast landing off the back door</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/3d65defa-a775-40c5-9765-99cfd6dfecb0/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Rear Stone Landing
+                                </div>
+                                <p>Medium size stone or precast landing/step</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/a54c3e03-26a0-4db6-abf4-13f048cf80fa/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Rear Stone Landing
+                                </div>
+                                <p>Large stone landing w. steps</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="0bb81103-8953-40fa-83ac-e73a4b549fa4" data-product_variant="small" data-product_min_price="2.5" data-product_max_price="4" href="#">
+                            $2.5-4K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="0bb81103-8953-40fa-83ac-e73a4b549fa4" data-product_variant="medium" data-product_min_price="8" data-product_max_price="10" href="#">
+                            $8-10K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="0bb81103-8953-40fa-83ac-e73a4b549fa4" data-product_variant="large" data-product_min_price="15" data-product_max_price="20" href="#">
+                            $15-20K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="6c3834c2-48cd-41cc-833c-348ce6d7d52f" data-product_category="backyard" data-product_name="Rear Steps or Walls" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/e5f16c1b-7490-4b5f-ae24-00b8c2dd6f31/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Rear Steps or Walls
+                                </div>
+                                <p>Short run of steps or small wall</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/0669eb9c-48ff-47e8-9350-8dae45995d13/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Rear Steps or Walls
+                                </div>
+                                <p>Stone or precast wall and/or steps</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/94b4147e-b60f-4854-9b78-67711037b502/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Rear Steps or Walls
+                                </div>
+                                <p>Larger stone wall and/or steps</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="6c3834c2-48cd-41cc-833c-348ce6d7d52f" data-product_variant="small" data-product_min_price="2" data-product_max_price="6" href="#">
+                            $2-6K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="6c3834c2-48cd-41cc-833c-348ce6d7d52f" data-product_variant="medium" data-product_min_price="8" data-product_max_price="12" href="#">
+                            $8-12K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="6c3834c2-48cd-41cc-833c-348ce6d7d52f" data-product_variant="large" data-product_min_price="15" data-product_max_price="25" href="#">
+                            $15-25K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="e5891c4d-b520-413d-96e7-826f4a361f74" data-product_category="backyard" data-product_name="Patio - Sitting/Dining Area" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/8bcd2d13-94e9-4196-bd7a-5aec0fb1510b/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Patio - Sitting/Dining Area
+                                </div>
+                                <p>Paver patio large enough for dining</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/2f2b17d4-e644-452a-a140-608ce5e635a6/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Patio - Sitting/Dining Area
+                                </div>
+                                <p>Larger paver patio with room for dining and lounging</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/6891ef32-1d1e-499f-907c-62ab0bdfa432/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Patio - Sitting/Dining Area
+                                </div>
+                                <p>Larger paver patio  or natural stone patio for dining and lounging</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="e5891c4d-b520-413d-96e7-826f4a361f74" data-product_variant="small" data-product_min_price="5" data-product_max_price="8" href="#">
+                            $5-8K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="e5891c4d-b520-413d-96e7-826f4a361f74" data-product_variant="medium" data-product_min_price="12" data-product_max_price="16" href="#">
+                            $12-16K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="e5891c4d-b520-413d-96e7-826f4a361f74" data-product_variant="large" data-product_min_price="25" data-product_max_price="30" href="#">
+                            $25-30K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="d6d79882-ece7-4d0c-af29-132ded6e2f6d" data-product_category="backyard" data-product_name="Patio - Pool Area" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/b99d617c-b063-4714-9c14-76804e46342a/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Patio - Pool Area
+                                </div>
+                                <p>Average paver patio around small pool with room for lounge chairs</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/ec2c74a3-dc05-4351-82f5-8842c984d0a6/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Patio - Pool Area
+                                </div>
+                                <p>Medium paver patio with larger spaces for entertaining</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/97e15351-4e5e-4b90-937c-905b4d49b503/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Patio - Pool Area
+                                </div>
+                                <p>Premium paver patio around a larger pool with room for dining and lounging</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="d6d79882-ece7-4d0c-af29-132ded6e2f6d" data-product_variant="small" data-product_min_price="9" data-product_max_price="13" href="#">
+                            $9-13K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="d6d79882-ece7-4d0c-af29-132ded6e2f6d" data-product_variant="medium" data-product_min_price="15" data-product_max_price="18" href="#">
+                            $15-18K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="d6d79882-ece7-4d0c-af29-132ded6e2f6d" data-product_variant="large" data-product_min_price="19" data-product_max_price="23" href="#">
+                            $19-23K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="3a8a7001-4f45-4bea-83be-8ea29f55e09f" data-product_category="backyard" data-product_name="Deck - Wood" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/3b52656c-ea33-4947-86d6-dad4dc56d450/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Deck - Wood
+                                </div>
+                                <p>Small landing or steps under 100 sq.ft.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/314ab442-5f1b-47ed-b5d8-189fcf290bc6/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Deck - Wood
+                                </div>
+                                <p>Average size deck with aluminum railing</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/35995be8-19c9-4fc2-a9c9-ce4720d21506/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Deck - Wood
+                                </div>
+                                <p>A large or more elaborate deck with multiple levels and interesting features.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="3a8a7001-4f45-4bea-83be-8ea29f55e09f" data-product_variant="small" data-product_min_price="3" data-product_max_price="5" href="#">
+                            $3-5K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="3a8a7001-4f45-4bea-83be-8ea29f55e09f" data-product_variant="medium" data-product_min_price="8" data-product_max_price="12" href="#">
+                            $8-12K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="3a8a7001-4f45-4bea-83be-8ea29f55e09f" data-product_variant="large" data-product_min_price="15" data-product_max_price="20" href="#">
+                            $15-20K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="9392fe71-d491-48d1-af98-47ec6e91a531" data-product_category="backyard" data-product_name="Deck - Premium" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/321f4b60-0cd1-4301-a003-15a2709ab565/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Deck - Premium
+                                </div>
+                                <p>Small landing or steps with aluminum railing.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/bfdc9d48-e482-4684-9101-c3131d6a04c4/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Deck - Premium
+                                </div>
+                                <p>Medium to larger size deck with aluminum railing. Porch and kitchen extra.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/4586ab24-9507-43bd-a5f9-3172e031f07a/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Deck - Premium
+                                </div>
+                                <p>A large or more elaborate deck with multiple levels and interesting features. Overhead structures, kitchen and stone are extra.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="9392fe71-d491-48d1-af98-47ec6e91a531" data-product_variant="small" data-product_min_price="9" data-product_max_price="12" href="#">
+                            $9-12K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="9392fe71-d491-48d1-af98-47ec6e91a531" data-product_variant="medium" data-product_min_price="22" data-product_max_price="30" href="#">
+                            $22-30K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="9392fe71-d491-48d1-af98-47ec6e91a531" data-product_variant="large" data-product_min_price="40" data-product_max_price="55" href="#">
+                            $40-55K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="68ffa162-7382-49e9-9709-f175ec985a56" data-product_category="backyard" data-product_name="Built-in BBQ/Kitchen/Bar" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/aae82ee0-92f8-4c8b-aac3-e97e84dfecf2/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Built-in BBQ/Kitchen/Bar
+                                </div>
+                                <p>A simpler BBQ surround or bar (appliances and gas hookup extra)</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/93328fb5-39be-4fe0-ac96-f0a49cc94208/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Built-in BBQ/Kitchen/Bar
+                                </div>
+                                <p>An mid-size outdoor kitchen with room for built-in BBQ and other appliances on a stone base with stone counter top (appliances and gas hookup extra).</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/fd1ba6d4-f0d6-42d5-8acb-bc82540b92b1/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Built-in BBQ/Kitchen/Bar
+                                </div>
+                                <p>A complete outdoor kitchen and bar with stone surround and polished counter top (appliances and gas hookup extra).</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="68ffa162-7382-49e9-9709-f175ec985a56" data-product_variant="small" data-product_min_price="8" data-product_max_price="10" href="#">
+                            $8-10K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="68ffa162-7382-49e9-9709-f175ec985a56" data-product_variant="medium" data-product_min_price="10" data-product_max_price="15" href="#">
+                            $10-15K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="68ffa162-7382-49e9-9709-f175ec985a56" data-product_variant="large" data-product_min_price="16" data-product_max_price="20" href="#">
+                            $16-20K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="9bf29b7f-1002-47d0-9b67-3252e032e455" data-product_category="backyard" data-product_name="Fireplace" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/d2145048-10f0-4a28-8e4d-2cf16bcb7512/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Fireplace
+                                </div>
+                                <p>Free-standing gas or wood burning fireplace with stone base and top (gas hookup extra)</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/b964ce44-f5c6-49f8-b7ba-40cdbd9bc5d0/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Fireplace
+                                </div>
+                                <p>Gas or wood burning fireplace with stone hearth and mantle (gas hookup extra)</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/eb84e1ee-c6d9-409d-a7f8-da4afde4de3b/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Fireplace
+                                </div>
+                                <p>Large gas or wood burning fireplace with stone surround and wing walls and room for an outdoor TV or projector screen (gas, electrical and AV hookup extra)</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="9bf29b7f-1002-47d0-9b67-3252e032e455" data-product_variant="small" data-product_min_price="14" data-product_max_price="18" href="#">
+                            $14-18K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="9bf29b7f-1002-47d0-9b67-3252e032e455" data-product_variant="medium" data-product_min_price="19" data-product_max_price="25" href="#">
+                            $19-25K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="9bf29b7f-1002-47d0-9b67-3252e032e455" data-product_variant="large" data-product_min_price="26" data-product_max_price="35" href="#">
+                            $26-35K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="d28eed23-11bb-4c63-a0da-456c9afd92e7" data-product_category="backyard" data-product_name="Fire Feature" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/57afa7fb-0919-4d00-9f6f-37543ef7fe38/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Fire Feature
+                                </div>
+                                <p>Readymade fire pit or fire table (gas hookup is extra)</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/c3181de7-49f2-49f1-94ec-127d8285f059/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Fire Feature
+                                </div>
+                                <p>Gas fire pit with natural stone or precast surround (gas hookup is extra)</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/38617594-77da-4113-8e5d-390373cba1fb/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Fire Feature
+                                </div>
+                                <p>Fire bowls or large linear fire feature (gas hookup is extra)</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="d28eed23-11bb-4c63-a0da-456c9afd92e7" data-product_variant="small" data-product_min_price="2.5" data-product_max_price="4" href="#">
+                            $2.5-4K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="d28eed23-11bb-4c63-a0da-456c9afd92e7" data-product_variant="medium" data-product_min_price="5" data-product_max_price="7" href="#">
+                            $5-7K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="d28eed23-11bb-4c63-a0da-456c9afd92e7" data-product_variant="large" data-product_min_price="10" data-product_max_price="15" href="#">
+                            $10-15K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="d9b3c736-f93f-4acd-acf5-266e0152a91d" data-product_category="backyard" data-product_name="Covered Porch" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/3c4fc0ab-a149-4633-9546-c0b6691db854/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Covered Porch
+                                </div>
+                                <p>Small covered porch. Don't forget to add a deck or patio. Fireplaces, fire pits and outdoor kitchens are great additions as well.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/98b1e8d1-6a63-4886-95e3-3afa5dfcbe3c/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Covered Porch
+                                </div>
+                                <p>Medium sized covered porch. Stone patio is extra. Fireplaces, fire pits and outdoor kitchens are great additions as well.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/b8452475-963b-4400-9522-d8fcf77da6ec/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Covered Porch
+                                </div>
+                                <p>Larger covered porch. Don't forget to add a deck or patio. Fireplaces, fire pits and outdoor kitchens are great additions as well.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="d9b3c736-f93f-4acd-acf5-266e0152a91d" data-product_variant="small" data-product_min_price="20" data-product_max_price="25" href="#">
+                            $20-25K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="d9b3c736-f93f-4acd-acf5-266e0152a91d" data-product_variant="medium" data-product_min_price="28" data-product_max_price="35" href="#">
+                            $28-35K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="d9b3c736-f93f-4acd-acf5-266e0152a91d" data-product_variant="large" data-product_min_price="38" data-product_max_price="45" href="#">
+                            $38-45K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="54170204-87e8-4139-8ac2-396b5c821f00" data-product_category="backyard" data-product_name="Pavilion" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/94aea573-6b6a-4998-8404-5b1a4c2cbf44/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pavilion
+                                </div>
+                                <p>A basic 14x14 pavilion. Screen and fire pit is extra. Don't forget to add a patio!</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/1607b0fe-bc6e-4937-9aa3-0a8f34d6b8d8/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pavilion
+                                </div>
+                                <p>A medium sized 16x16 pavilion. Stone pillars and fireplace extra. Don't forget to add a patio!</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/68f2c4a0-a500-45bf-bb7e-7f72a370d46e/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pavilion
+                                </div>
+                                <p>A large custom pavilion. Kitchen or fireplace extra. Don't forget to add a patio!</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="54170204-87e8-4139-8ac2-396b5c821f00" data-product_variant="small" data-product_min_price="13" data-product_max_price="16" href="#">
+                            $13-16K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="54170204-87e8-4139-8ac2-396b5c821f00" data-product_variant="medium" data-product_min_price="16" data-product_max_price="20" href="#">
+                            $16-20K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="54170204-87e8-4139-8ac2-396b5c821f00" data-product_variant="large" data-product_min_price="22" data-product_max_price="30" href="#">
+                            $22-30K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="62f8ca10-79ee-40b6-8bdf-eebf18c9f3b8" data-product_category="backyard" data-product_name="Shed/Cabana" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/466d0fd2-10b0-4c67-941e-2ad934d15742/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Shed/Cabana
+                                </div>
+                                <p>Small cedar shed or cabana finished in wood siding.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/848aa08c-3896-4ff9-b012-b26cbbf88b86/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Shed/Cabana
+                                </div>
+                                <p>Mid-size cabana with bar finished with stone and stucco or wood.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/a9b6f253-7a6b-4970-96eb-6ee321edd87f/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Shed/Cabana
+                                </div>
+                                <p>Large cabana with covered sitting area and bar. Finished in stone veneer and stucco or siding.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="62f8ca10-79ee-40b6-8bdf-eebf18c9f3b8" data-product_variant="small" data-product_min_price="8" data-product_max_price="11" href="#">
+                            $8-11K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="62f8ca10-79ee-40b6-8bdf-eebf18c9f3b8" data-product_variant="medium" data-product_min_price="12" data-product_max_price="20" href="#">
+                            $12-20K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="62f8ca10-79ee-40b6-8bdf-eebf18c9f3b8" data-product_variant="large" data-product_min_price="25" data-product_max_price="50" href="#">
+                            $25-50K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="5327d3d0-9f47-43ff-bee4-bf2902aa0ce8" data-product_category="backyard" data-product_name="Swimming Pool" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/ee28713b-29fb-4de7-9064-f681cb5b522c/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Swimming Pool
+                                </div>
+                                <p>Small vinyl pool (stone coping extra)</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/d8605e9b-cb89-4040-8d7d-4657781ed113/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Swimming Pool
+                                </div>
+                                <p>Mid-sized vinyl pool (stone coping extra)</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/670d3576-1458-4625-9233-66adc83adc8e/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Swimming Pool
+                                </div>
+                                <p>Large vinyl pool with accessories like a spill-over spa etc. (stone coping and waterfall extra)</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="5327d3d0-9f47-43ff-bee4-bf2902aa0ce8" data-product_variant="small" data-product_min_price="35" data-product_max_price="40" href="#">
+                            $35-40K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="5327d3d0-9f47-43ff-bee4-bf2902aa0ce8" data-product_variant="medium" data-product_min_price="40" data-product_max_price="55" href="#">
+                            $40-55K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="5327d3d0-9f47-43ff-bee4-bf2902aa0ce8" data-product_variant="large" data-product_min_price="55" data-product_max_price="75" href="#">
+                            $55-75K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="5a821db3-0136-4545-a088-49f2ef162757" data-product_category="backyard" data-product_name="Pool Coping" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/50821af3-99f1-4b65-b0f7-b74126c3599b/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pool Coping
+                                </div>
+                                <p>Pre-cast coping for an average sized pool</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/b2a12662-1058-4f27-a5dd-df9854f92c44/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pool Coping
+                                </div>
+                                <p>Natural stone coping for mid-sized pool</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/6267a738-a4ab-41c1-b341-84566e6d8703/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pool Coping
+                                </div>
+                                <p>Natural stone coping for an average to large pool with accessories like a spill-over spa etc.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="5a821db3-0136-4545-a088-49f2ef162757" data-product_variant="small" data-product_min_price="4" data-product_max_price="5" href="#">
+                            $4-5K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="5a821db3-0136-4545-a088-49f2ef162757" data-product_variant="medium" data-product_min_price="5" data-product_max_price="6.5" href="#">
+                            $5-6.5K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="5a821db3-0136-4545-a088-49f2ef162757" data-product_variant="large" data-product_min_price="7" data-product_max_price="9" href="#">
+                            $7-9K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="0bbcb78a-1c92-4ef1-bed6-fac8626ed078" data-product_category="backyard" data-product_name="Pool Waterfall - Contemporary" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/76556f28-5b71-4c34-9487-a41d4b2fdb85/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pool Waterfall - Contemporary
+                                </div>
+                                <p>Small stone wall with sheer descent waterfall</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/723df00e-b4e4-4892-a587-183a801be3c3/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pool Waterfall - Contemporary
+                                </div>
+                                <p>Mid-sized stone wall with one large sheer descent or two small ones</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/9f137298-66bb-40d4-b9d6-486da19b8626/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pool Waterfall - Contemporary
+                                </div>
+                                <p>Large stone wall with sheer descent(s) and additional features such as stone wing walls or planters.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="0bbcb78a-1c92-4ef1-bed6-fac8626ed078" data-product_variant="small" data-product_min_price="4" data-product_max_price="5" href="#">
+                            $4-5K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="0bbcb78a-1c92-4ef1-bed6-fac8626ed078" data-product_variant="medium" data-product_min_price="5" data-product_max_price="7" href="#">
+                            $5-7K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="0bbcb78a-1c92-4ef1-bed6-fac8626ed078" data-product_variant="large" data-product_min_price="7" data-product_max_price="10" href="#">
+                            $7-10K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="ccde7ea1-9a2a-41a6-b57e-d09b289a9c7a" data-product_category="backyard" data-product_name="Pool Waterfall - Natural" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/4831b57b-c19b-4aab-bff0-06184a168aa2/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pool Waterfall - Natural
+                                </div>
+                                <p>Small waterfall - approx. 24" high</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/961be00d-193d-4097-935d-d18abea7f7f0/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pool Waterfall - Natural
+                                </div>
+                                <p>Mid-size waterfall with a couple levels</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/75b7aae4-e33e-49d2-a36a-b4f494210bd1/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pool Waterfall - Natural
+                                </div>
+                                <p>Large waterfall - 36-48" high, 8-10' wide with multiple levels</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="ccde7ea1-9a2a-41a6-b57e-d09b289a9c7a" data-product_variant="small" data-product_min_price="7" data-product_max_price="9" href="#">
+                            $7-9K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="ccde7ea1-9a2a-41a6-b57e-d09b289a9c7a" data-product_variant="medium" data-product_min_price="10" data-product_max_price="12" href="#">
+                            $10-12K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="ccde7ea1-9a2a-41a6-b57e-d09b289a9c7a" data-product_variant="large" data-product_min_price="14" data-product_max_price="18" href="#">
+                            $14-18K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="99ddfbec-753e-4bec-be2c-a6b0b9e3a475" data-product_category="backyard" data-product_name="Water Feature" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/31eadc05-7672-4f06-9c4b-e372e19a604e/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Water Feature
+                                </div>
+                                <p>Bubbling rock w. pondless basin</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/c6b14aba-aef2-49fb-8f56-8f12e09d4144/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Water Feature
+                                </div>
+                                <p>Basalt columns or small pond</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/7fd4b38d-6262-4556-b203-7701652ddb80/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Water Feature
+                                </div>
+                                <p>Larger concrete or lined pond w. waterfall</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="99ddfbec-753e-4bec-be2c-a6b0b9e3a475" data-product_variant="small" data-product_min_price="5" data-product_max_price="8" href="#">
+                            $5-8K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="99ddfbec-753e-4bec-be2c-a6b0b9e3a475" data-product_variant="medium" data-product_min_price="8" data-product_max_price="15 " href="#">
+                            $8-15 K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="99ddfbec-753e-4bec-be2c-a6b0b9e3a475" data-product_variant="large" data-product_min_price="16" data-product_max_price="25" href="#">
+                            $16-25K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="88371148-ed47-40ad-808e-692784576d86" data-product_category="backyard" data-product_name="Privacy Screen" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/1d056bf9-d350-47ed-86e0-38c539d26d2e/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Privacy Screen
+                                </div>
+                                <p>Small wood or composite screen</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/da5c5e45-9824-4384-9382-a12cb593e86a/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Privacy Screen
+                                </div>
+                                <p>Medium wood or composite screen. Could also be a couple small screens.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/7f168a08-6b34-4f08-89cd-f722d21bc368/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Privacy Screen
+                                </div>
+                                <p>Large or elaborate wood or composite screen</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="88371148-ed47-40ad-808e-692784576d86" data-product_variant="small" data-product_min_price="1.5" data-product_max_price="2" href="#">
+                            $1.5-2K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="88371148-ed47-40ad-808e-692784576d86" data-product_variant="medium" data-product_min_price="3" data-product_max_price="5" href="#">
+                            $3-5K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="88371148-ed47-40ad-808e-692784576d86" data-product_variant="large" data-product_min_price="6" data-product_max_price="12" href="#">
+                            $6-12K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="e423d6f1-51fa-4713-8408-8e5de8ce21f7" data-product_category="backyard" data-product_name="Fencing - Wood" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/905b4364-af94-4684-91f4-a62e12c66eb1/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Fencing - Wood
+                                </div>
+                                <p>Small back yard with a simple PT wood fence</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/3d518438-0e0e-4d33-80d7-d241eb1f87ee/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Fencing - Wood
+                                </div>
+                                <p>Medium back yard with cedar fence</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/cc0e0c4f-61d2-4278-87fb-5be7a07e71f0/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Fencing - Wood
+                                </div>
+                                <p>Larger back yard with cedar fence</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="e423d6f1-51fa-4713-8408-8e5de8ce21f7" data-product_variant="small" data-product_min_price="4" data-product_max_price="5" href="#">
+                            $4-5K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="e423d6f1-51fa-4713-8408-8e5de8ce21f7" data-product_variant="medium" data-product_min_price="13" data-product_max_price="17" href="#">
+                            $13-17K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="e423d6f1-51fa-4713-8408-8e5de8ce21f7" data-product_variant="large" data-product_min_price="18" data-product_max_price="23" href="#">
+                            $18-23K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="f75a3f6f-f2bc-4792-a6c9-c231595113d9" data-product_category="backyard" data-product_name="Fencing - Modular Iron" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/67dd3fd9-be7a-4e9a-bb85-acf4740aafd7/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Fencing - Modular Iron
+                                </div>
+                                <p>Small back yard</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/d0f06b0c-b769-4339-a4dc-37d03c76d33e/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Fencing - Modular Iron
+                                </div>
+                                <p>Medium back yard</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/1e81f608-ad41-4a79-bffe-131ebf071d8e/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Fencing - Modular Iron
+                                </div>
+                                <p>Large back yard</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="f75a3f6f-f2bc-4792-a6c9-c231595113d9" data-product_variant="small" data-product_min_price="5" data-product_max_price="8" href="#">
+                            $5-8K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="f75a3f6f-f2bc-4792-a6c9-c231595113d9" data-product_variant="medium" data-product_min_price="10" data-product_max_price="15" href="#">
+                            $10-15K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="f75a3f6f-f2bc-4792-a6c9-c231595113d9" data-product_variant="large" data-product_min_price="15" data-product_max_price="20" href="#">
+                            $15-20K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="b0464e3d-7af9-4131-be2e-a06b09a0adf3" data-product_category="backyard" data-product_name="Backyard Lighting" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/bb6bf9cc-629e-490b-a4db-074f8758723f/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Backyard Lighting
+                                </div>
+                                <p>Simpler lighting package with 8-10 LED fixtures.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/908956d2-715e-4476-a521-3faa72984721/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Backyard Lighting
+                                </div>
+                                <p>Lighting package with 15-20 LED fixtures.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/f24438b0-54aa-48b5-bccf-465a2d8738a9/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Backyard Lighting
+                                </div>
+                                <p>Larger package with 30-40 LED fixtures.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="b0464e3d-7af9-4131-be2e-a06b09a0adf3" data-product_variant="small" data-product_min_price="2.5" data-product_max_price="3" href="#">
+                            $2.5-3K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="b0464e3d-7af9-4131-be2e-a06b09a0adf3" data-product_variant="medium" data-product_min_price="4.5" data-product_max_price="6" href="#">
+                            $4.5-6K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="b0464e3d-7af9-4131-be2e-a06b09a0adf3" data-product_variant="large" data-product_min_price="9" data-product_max_price="12" href="#">
+                            $9-12K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="dae9f213-da89-4e58-8331-2e5cc6ae84ce" data-product_category="backyard" data-product_name="Backyard Gardens" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/1a703d97-6cf9-404d-b77d-0bfabf31e272/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Backyard Gardens
+                                </div>
+                                <p>Smaller back yard with simple gardens. Includes a specimen tree, a shade tree and a mix of shrubs and perennials. Includes soil & mulch.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/a6461616-3639-4d54-965f-86b2d7b214d5/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Backyard Gardens
+                                </div>
+                                <p>Medium sized back yard with several trees and a mix of evergreens, shrubs and perennials/grasses. Includes soil & mulch.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/c454f942-c6ac-4d07-83f0-77b9ed7ac76b/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Backyard Gardens
+                                </div>
+                                <p>Larger back yard with more extensive gardens and tree plantings. Includes soil & mulch.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="dae9f213-da89-4e58-8331-2e5cc6ae84ce" data-product_variant="small" data-product_min_price="8" data-product_max_price="12" href="#">
+                            $8-12K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="dae9f213-da89-4e58-8331-2e5cc6ae84ce" data-product_variant="medium" data-product_min_price="12" data-product_max_price="18" href="#">
+                            $12-18K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="dae9f213-da89-4e58-8331-2e5cc6ae84ce" data-product_variant="large" data-product_min_price="18" data-product_max_price="25" href="#">
+                            $18-25K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="1e0d76d4-b92c-455e-ac23-9db57a7daae0" data-product_category="backyard" data-product_name=" Backyard Grading & Sodding" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/caf7e06e-c71a-452b-b243-e5c8f818e811/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                     Backyard Grading & Sodding
+                                </div>
+                                <p>Small back yard that requires minimal sodding and grading or just sod repair.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/9c333d92-866f-4264-93e9-830cf239a7fd/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                     Backyard Grading & Sodding
+                                </div>
+                                <p>Medium back yard that requires sodding and grading plus side yard repair to the road.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/44535fb3-ad05-441b-8011-a51126b46f87/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                     Backyard Grading & Sodding
+                                </div>
+                                <p>Larger back yard that requires more extensive grading, sodding and sod repair.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="1e0d76d4-b92c-455e-ac23-9db57a7daae0" data-product_variant="small" data-product_min_price="2.5" data-product_max_price="4" href="#">
+                            $2.5-4K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="1e0d76d4-b92c-455e-ac23-9db57a7daae0" data-product_variant="medium" data-product_min_price="5" data-product_max_price="8" href="#">
+                            $5-8K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="1e0d76d4-b92c-455e-ac23-9db57a7daae0" data-product_variant="large" data-product_min_price="10" data-product_max_price="15" href="#">
+                            $10-15K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="e460a9f3-bedc-4f36-bc75-f0f2d86e77f1" data-product_category="backyard" data-product_name="   Backyard Irrigation Package" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/04aa7c14-6aaf-43f9-9939-f0e6032f188e/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                       Backyard Irrigation Package
+                                </div>
+                                <p>Small back yard with minimal lawn and gardens</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/46bdc90f-9c3f-4698-b0be-e8f9c9e7939d/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                       Backyard Irrigation Package
+                                </div>
+                                <p>Medium back yard</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/ff9a0538-70ef-4615-8c7e-28edf7e475fa/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                       Backyard Irrigation Package
+                                </div>
+                                <p>Large estate back yard</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="e460a9f3-bedc-4f36-bc75-f0f2d86e77f1" data-product_variant="small" data-product_min_price="2.5" data-product_max_price="3.5" href="#">
+                            $2.5-3.5K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="e460a9f3-bedc-4f36-bc75-f0f2d86e77f1" data-product_variant="medium" data-product_min_price="4" data-product_max_price="6" href="#">
+                            $4-6K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="e460a9f3-bedc-4f36-bc75-f0f2d86e77f1" data-product_variant="large" data-product_min_price="7" data-product_max_price="10" href="#">
+                            $7-10K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="0db397f7-37c1-46f5-95cd-0d9520b4bb03" data-product_category="backyard" data-product_name="Putting Greens" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/faf6431e-c88d-4039-864d-769b11bbd850/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Putting Greens
+                                </div>
+                                <p>Small artificial green - 9'x12'</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/36c56913-2cc9-4dae-9bba-c3a59d40f126/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Putting Greens
+                                </div>
+                                <p>Medium artificial green with fringe - 10'x20'</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/36904708-29b1-43c0-b0e4-7a5c5a798ef9/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Putting Greens
+                                </div>
+                                <p>Large artificial green with fringe & sand trap - 15'x30'</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="0db397f7-37c1-46f5-95cd-0d9520b4bb03" data-product_variant="small" data-product_min_price="6" data-product_max_price="9" href="#">
+                            $6-9K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="0db397f7-37c1-46f5-95cd-0d9520b4bb03" data-product_variant="medium" data-product_min_price="10" data-product_max_price="15" href="#">
+                            $10-15K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="0db397f7-37c1-46f5-95cd-0d9520b4bb03" data-product_variant="large" data-product_min_price="16" data-product_max_price="25" href="#">
+                            $16-25K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="4799cb7a-4735-406b-990b-de1b54714b27" data-product_category="backyard" data-product_name="Pergolas" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/85cb0584-42d2-4dc8-902c-d76d4dafe584/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pergolas
+                                </div>
+                                <p>Timber frame pergola - 12'x14'. Don't forget to add the patio!</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/2e910acb-43c8-4545-bcd1-b73aa01ade7c/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pergolas
+                                </div>
+                                <p>Timber frame pergola and screen - 16'x16'. Fire feature extra. Don't forget to add the patio!</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/203fe120-b859-4bfd-9b11-d0e9ded140c4/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Pergolas
+                                </div>
+                                <p>Large timber pergola with stone pillar bases. Don't forget to add the patio!</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="4799cb7a-4735-406b-990b-de1b54714b27" data-product_variant="small" data-product_min_price="7" data-product_max_price="10" href="#">
+                            $7-10K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="4799cb7a-4735-406b-990b-de1b54714b27" data-product_variant="medium" data-product_min_price="10" data-product_max_price="15" href="#">
+                            $10-15K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="4799cb7a-4735-406b-990b-de1b54714b27" data-product_variant="large" data-product_min_price="30" data-product_max_price="37" href="#">
+                            $30-37K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+
+
+            </div>
+
+        </section>
+
+
+        <section class="product_grid product_grid--front_yard">
+
+            <div class="product_grid__wrapper">
+
+                                <div class="product_piece" data-product_id="26ded2f5-18fc-4652-89e1-baac78e8dbc3" data-product_category="front_yard" data-product_name="Entrance - Natural Stone" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/b5adc2fa-1854-4084-9568-1c6bd1ec5839/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Entrance - Natural Stone
+                                </div>
+                                <p>Small flagstone entrance</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/dc28a5b1-23c1-48ef-a6a8-aa9ade91bf0a/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Entrance - Natural Stone
+                                </div>
+                                <p>Medium flagstone entrance with steps and landings</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/cb087017-a0b5-49c9-88da-c4b5b42cfa5d/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Entrance - Natural Stone
+                                </div>
+                                <p>Large flagstone entrance with steps, landings and walls.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="26ded2f5-18fc-4652-89e1-baac78e8dbc3" data-product_variant="small" data-product_min_price="10" data-product_max_price="12" href="#">
+                            $10-12K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="26ded2f5-18fc-4652-89e1-baac78e8dbc3" data-product_variant="medium" data-product_min_price="12" data-product_max_price="18" href="#">
+                            $12-18K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="26ded2f5-18fc-4652-89e1-baac78e8dbc3" data-product_variant="large" data-product_min_price="20" data-product_max_price="28" href="#">
+                            $20-28K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="254f3f75-ce3a-4237-af1a-eaa6609d029f" data-product_category="front_yard" data-product_name="Entrance - Pavers & Stone" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/0b6380ce-305c-463d-9709-88d6801398ba/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Entrance - Pavers & Stone
+                                </div>
+                                <p>A small entrance with a paving stone walkway and flagstone veneer on porch</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/54c72d96-d73c-429b-b28d-a1727f428a5b/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Entrance - Pavers & Stone
+                                </div>
+                                <p>Average size paving stone walkway with flagstone veneer on concrete landings and steps</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/3b3b7f3a-1d26-48c1-90f6-0046f953b27c/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Entrance - Pavers & Stone
+                                </div>
+                                <p>A more complex entrance using a combination of paving stone and flagstone for landings/steps</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="254f3f75-ce3a-4237-af1a-eaa6609d029f" data-product_variant="small" data-product_min_price="7" data-product_max_price="9" href="#">
+                            $7-9K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="254f3f75-ce3a-4237-af1a-eaa6609d029f" data-product_variant="medium" data-product_min_price="10" data-product_max_price="14" href="#">
+                            $10-14K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="254f3f75-ce3a-4237-af1a-eaa6609d029f" data-product_variant="large" data-product_min_price="15" data-product_max_price="20" href="#">
+                            $15-20K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="7c1e0389-e19c-43e5-8317-b5fa5488214c" data-product_category="front_yard" data-product_name="Driveway" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/1ae140cc-64c2-4fb8-b0dd-599a2acc4046/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Driveway
+                                </div>
+                                <p>Average size asphalt driveway with simple paving stone borders. Includes base and 3" asphalt.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/bf9d2530-8c93-403e-8ddb-2007b3c032fd/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Driveway
+                                </div>
+                                <p>Average size driveway with mid-range pavers. Includes new base.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/d1b51243-5d9e-41dd-bcbe-5af1fe5447fd/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Driveway
+                                </div>
+                                <p>Average to large size driveway using premium paving stone. Includes new base.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="7c1e0389-e19c-43e5-8317-b5fa5488214c" data-product_variant="small" data-product_min_price="9" data-product_max_price="12" href="#">
+                            $9-12K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="7c1e0389-e19c-43e5-8317-b5fa5488214c" data-product_variant="medium" data-product_min_price="20" data-product_max_price="25" href="#">
+                            $20-25K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="7c1e0389-e19c-43e5-8317-b5fa5488214c" data-product_variant="large" data-product_min_price="25" data-product_max_price="32" href="#">
+                            $25-32K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="517d1806-2b8b-4886-b818-38f998949e9b" data-product_category="front_yard" data-product_name="Garden/Knee Walls" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/9da70154-68be-4b7c-ac97-4330c72f91ad/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Garden/Knee Walls
+                                </div>
+                                <p>Small natural stone wall & pillar</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/2dd6ea48-2196-4e14-b477-716f594b3668/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Garden/Knee Walls
+                                </div>
+                                <p>Medium natural stone wall & pillar.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/0b2f7913-2465-4481-b7e7-180bd7492f49/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Garden/Knee Walls
+                                </div>
+                                <p>More extensive natural stone walls and pillars.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="517d1806-2b8b-4886-b818-38f998949e9b" data-product_variant="small" data-product_min_price="4" data-product_max_price="6" href="#">
+                            $4-6K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="517d1806-2b8b-4886-b818-38f998949e9b" data-product_variant="medium" data-product_min_price="8" data-product_max_price="12" href="#">
+                            $8-12K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="517d1806-2b8b-4886-b818-38f998949e9b" data-product_variant="large" data-product_min_price="18" data-product_max_price="24" href="#">
+                            $18-24K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="8ff4a27c-0eea-4051-9df2-3a51ea567b37" data-product_category="front_yard" data-product_name="Address Stone/Pillar" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/69831175-ca93-425b-a3f5-f76c1a8922c8/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Address Stone/Pillar
+                                </div>
+                                <p>Address number carved into an accent boulder</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/15d4461f-6c7c-4e33-a7cb-42aa56cdb2c4/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Address Stone/Pillar
+                                </div>
+                                <p>Small pillar with address numbers</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/9cd4b322-ef79-41a2-8f56-47740552d422/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Address Stone/Pillar
+                                </div>
+                                <p>Larger address wall with numbers/street name</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="8ff4a27c-0eea-4051-9df2-3a51ea567b37" data-product_variant="small" data-product_min_price="1" data-product_max_price="1.3" href="#">
+                            $1-1.3K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="8ff4a27c-0eea-4051-9df2-3a51ea567b37" data-product_variant="medium" data-product_min_price="3" data-product_max_price="4" href="#">
+                            $3-4K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="8ff4a27c-0eea-4051-9df2-3a51ea567b37" data-product_variant="large" data-product_min_price="4" data-product_max_price="6" href="#">
+                            $4-6K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="e5c7eb97-5e96-4822-8baa-77cfae9f7723" data-product_category="front_yard" data-product_name="Front Yard Lighting" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/e3731ac4-7ef0-4497-92e7-74834037ea8e/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Front Yard Lighting
+                                </div>
+                                <p>LED Landscape Lighting.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/f75cf88a-ba2e-422e-b6e7-a3103ea59be2/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Front Yard Lighting
+                                </div>
+                                <p>Average front yard system with 10-15 LED fixtures.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/db1caf83-043e-495c-8d6c-c7d89e74044e/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Front Yard Lighting
+                                </div>
+                                <p>Larger or more complex front yard system with 15-25 LED fixtures.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="e5c7eb97-5e96-4822-8baa-77cfae9f7723" data-product_variant="small" data-product_min_price="1.5" data-product_max_price="3" href="#">
+                            $1.5-3K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="e5c7eb97-5e96-4822-8baa-77cfae9f7723" data-product_variant="medium" data-product_min_price="3" data-product_max_price="5" href="#">
+                            $3-5K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="e5c7eb97-5e96-4822-8baa-77cfae9f7723" data-product_variant="large" data-product_min_price="5" data-product_max_price="7.5" href="#">
+                            $5-7.5K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="864eccf0-e8e9-405c-9766-6de8a00ed084" data-product_category="front_yard" data-product_name="Front Yard Gardens" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/90463bfd-1924-4cfd-86ac-2f0170358354/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Front Yard Gardens
+                                </div>
+                                <p>Smaller yard with simple gardens. Includes a specimen tree, a shade tree and a mix of shrubs and perennials. Includes soil & mulch.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/069068c7-a7cf-4b7c-bb26-86713054448e/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Front Yard Gardens
+                                </div>
+                                <p>Medium sized yard with several trees and a mix of evergreens, shrubs and perennials/grasses. Includes soil & mulch.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/148e72b3-ea57-4601-b6b9-94c7e7c45e00/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Front Yard Gardens
+                                </div>
+                                <p>Larger property with more extensive gardens and tree plantings. Includes soil & mulch.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="864eccf0-e8e9-405c-9766-6de8a00ed084" data-product_variant="small" data-product_min_price="8" data-product_max_price="10" href="#">
+                            $8-10K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="864eccf0-e8e9-405c-9766-6de8a00ed084" data-product_variant="medium" data-product_min_price="10" data-product_max_price="15" href="#">
+                            $10-15K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="864eccf0-e8e9-405c-9766-6de8a00ed084" data-product_variant="large" data-product_min_price="15" data-product_max_price="20" href="#">
+                            $15-20K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="94ac38dc-ba5e-42d8-bad5-1c9a3cdfdd5c" data-product_category="front_yard" data-product_name="Front Yard Grading & Sodding" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/239d4541-92cd-459e-b2be-d8dfa89b996a/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Front Yard Grading & Sodding
+                                </div>
+                                <p>Small city front yard with minimal grass</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/014b0cd2-1dd0-411e-8396-e06470f837b8/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Front Yard Grading & Sodding
+                                </div>
+                                <p>Average front yard with an average amount of grass</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/ec4d200a-70fa-4577-9819-7c0f3ef10625/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Front Yard Grading & Sodding
+                                </div>
+                                <p>Typical estate lot with larger amount of lawn area.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="94ac38dc-ba5e-42d8-bad5-1c9a3cdfdd5c" data-product_variant="small" data-product_min_price="2" data-product_max_price="3.5" href="#">
+                            $2-3.5K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="94ac38dc-ba5e-42d8-bad5-1c9a3cdfdd5c" data-product_variant="medium" data-product_min_price="3.5" data-product_max_price="6" href="#">
+                            $3.5-6K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="94ac38dc-ba5e-42d8-bad5-1c9a3cdfdd5c" data-product_variant="large" data-product_min_price="10" data-product_max_price="15" href="#">
+                            $10-15K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+                                <div class="product_piece" data-product_id="dbefc528-485c-42d0-b238-7eb26f182302" data-product_category="front_yard" data-product_name="Front Yard Irrigation Package" data-product_variant="medium">
+
+                                        <div class="product_piece__content product_piece__content--small">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/c56bcf7c-0869-4f18-99b4-6311d4cb869d/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Front Yard Irrigation Package
+                                </div>
+                                <p>Small front yard with gardens and lawn area covered with irrigation</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--medium">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/aaa6536d-e535-4ddd-aebf-d0a7fa8fd71b/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Front Yard Irrigation Package
+                                </div>
+                                <p>Medium front yard with gardens and lawn covered with irrigation</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                                        <div class="product_piece__content product_piece__content--large">
+
+                        <div class="product_piece__image" style="background-image: url(../img/id/d5071a10-1d0d-45af-ba1b-e19389e4fce6/index-w=390&h=390&q=60.html);">
+
+
+                            <div class="product_piece__detail">
+                                <div class="product_piece__name">
+                                    Front Yard Irrigation Package
+                                </div>
+                                <p>Typical estate or country lot with gardens and extensive lawn area to be covered with irrigation</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="product_piece__variant_options">
+                                                <a class="product_piece__option" data-product_id="dbefc528-485c-42d0-b238-7eb26f182302" data-product_variant="small" data-product_min_price="1.5" data-product_max_price="2" href="#">
+                            $1.5-2K
+                        </a>
+                                                <a class="product_piece__option product_piece__option--selected" data-product_id="dbefc528-485c-42d0-b238-7eb26f182302" data-product_variant="medium" data-product_min_price="2" data-product_max_price="3" href="#">
+                            $2-3K
+                        </a>
+                                                <a class="product_piece__option" data-product_id="dbefc528-485c-42d0-b238-7eb26f182302" data-product_variant="large" data-product_min_price="3" data-product_max_price="7" href="#">
+                            $3-7K
+                        </a>
+
+                    </div>
+
+                    <a href="#" class="product_piece__add_to_estimate">+ Add to Landscape</a>
+                    <a href="#" class="product_piece__remove_from_estimate" style="display: none;">- Remove from Landscape</a>
+
+                </div>
+
+
+            </div>
+
+        </section>
+
+    </div>
+
+
+
+</section>
+
+</html>
