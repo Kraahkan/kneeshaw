@@ -1701,7 +1701,7 @@ section.bg--dark .slider.slider--controlsoutside[data-paging="true"] .owl-theme 
 }
 .modal-container .modal-content:not(.height--natural) {
   width: 50%;
-  height: 50%;
+  height: 20%;
 }
 .modal-container .modal-content .modal-close-cross {
   cursor: pointer;
