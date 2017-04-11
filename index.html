@@ -10,11 +10,11 @@
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,300italic,300,400italic,500,500italic" rel="stylesheet" type="text/css">
         <script src="https://app.simpla.io"></script>
         <script>Simpla('rka_hDt5g');</script>
-
         <link href="css/font-minimal.css" rel="stylesheet" type="text/css" media="all">
-        <script src="//load.sumome.com/" data-sumo-site-id="26828c2c02f7c7234042643944269381c342d0a6b50a2b65f7b79220b69aebb5" async="async"></script>
+
         <!-- Compiled and minified CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.5.8/APlayer.min.js">
   <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <!--Import materialize.css-->
 
@@ -30,14 +30,12 @@
       </script>
 
 
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
         <!-- Start of Async Drift Code -->
 
       <!-- End of Async Drift Code -->
-<style>
 
-
-</style>
 
     </head>
 
@@ -76,6 +74,20 @@
                                             <span class="h3" style="font-size:18px">I'm a musician and performer, based in Kamloops. I play shows at great venues like Sun Peaks, March Music Madness, Music at the Park, and the Blue Grotto. You pay for the seat, but only need the edge!
 
                                               <a class="modal-trigger underline active" href="#">Read more.</span>
+
+                                                <script type="text/javascript">
+                                                    $(document).ready(function(){
+                                                        var description = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id tortor nisi. Aenean sodales diam ac lacus elementum scelerisque. Suspendisse a dui vitae lacus faucibus venenatis vel id nisl. Proin orci ante, ultricies nec interdum at, iaculis venenatis nulla. ';
+
+                                                        $('body').ttwMusicPlayer(myPlaylist, {
+                                                            autoPlay:false,
+                                                            description:description,
+                                                            jPlayer:{
+                                                                swfPath:'../plugin/jquery-jplayer' //You need to override the default swf path any time the directory structure changes
+                                                            }
+                                                        });
+                                                    });
+                                                </script>
 
 
 
@@ -143,6 +155,7 @@
                                                             <i class="socicon-bandcamp"></i> Bandcamp
                                                         </a>
                                                     </li>
+
 
                                                   </ul>
 
@@ -256,6 +269,30 @@
 
 
             </div>
+
+            <script>
+
+            var ap = new APlayer({
+          element: document.getElementById('player1'),                       // Optional, player element
+          narrow: false,                                                     // Optional, narrow style
+          autoplay: true,                                                    // Optional, autoplay song(s), not supported by mobile browsers
+          showlrc: 0,                                                        // Optional, show lrc, can be 0, 1, 2, see: ###With lrc
+          mutex: true,                                                       // Optional, pause other players when this player playing
+          theme: '#e6d0b2',                                                  // Optional, theme color, default: #b7daff
+          mode: 'random',                                                    // Optional, play mode, can be `random` `single` `circulation`(loop) `order`(no loop), default: `circulation`
+          preload: 'metadata',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
+          listmaxheight: '513px',                                             // Optional, max height of play list
+          music: {                                                           // Required, music info, see: ###With playlist
+              title: 'Preparation',                                          // Required, music title
+              author: 'Hans Zimmer/Richard Harvey',                          // Required, music author
+              url: 'http://7xifn9.com1.z0.glb.clouddn.com/Preparation.mp3',  // Required, music url
+              pic: 'http://7xifn9.com1.z0.glb.clouddn.com/Preparation.jpg',  // Optional, music picture
+              lrc: '[00:00.00]lrc here\n[00:01.00]aplayer'                   // Optional, lrc, see: ###With lrc
+          }
+      });
+
+            </script>
+
 
         <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
               <script type="text/javascript" src="js/materialize.min.js"></script>
