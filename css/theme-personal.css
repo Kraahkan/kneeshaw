@@ -3047,7 +3047,7 @@ article .blog-single__action {
   display: block;
 }
 .contact-notification .notification__content {
-  max-width: 50%;
+  max-width: 70%;
   margin: 0 auto;
   transition: 0.3s ease;
   -webkit-transition: 0.3s ease;
@@ -3055,6 +3055,7 @@ article .blog-single__action {
   transition-delay: .5s;
   opacity: 0;
   left: 3.25em;
+   padding: 2em;
 }
 .contact-notification.notification--reveal:not(.notification--dismissed) .notification__content {
   opacity: 1;
@@ -3078,7 +3079,7 @@ article .blog-single__action {
 @media all and (max-width: 767px) {
   .contact-notification .notification__content {
     max-width: none;
-    padding: 1.625em;
+    padding: 3em;
   }
   .contact-notification form {
     margin-top: 3.25em;
